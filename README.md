@@ -1,4 +1,7 @@
 # family_therapy_android_studio
+Most of the family counseling therapists are facing a major issue in finding way to follow-up and communicate with their patients easily regarding their appointment dates. In addition, their patients progress needs to be observed daily or weekly depends on the condition. Moreover, patients also may find that it is difficult to resume their therapeutic exercise if they cannot meet their therapist in more than one month. As a result, patients easily give up on exercising, which leads to a negative result. This project develops a solution by providing an easy application that communicate between therapist and patients by providing follow up mechanism so that therapists can pay attention to their patients progress and maintain the treatment plan and observe their condition and progress. The proposed application will allow to the therapist to upload different therapeutic exercises and tips for each patient according to their condition. Furthermore, patients also can upload their exercises results which will be evaluated by therapist. 
+
+# Screenshots 
 ![Picture1](https://github.com/muaadh2097/family_therapy_android_studio/assets/125466531/bee087bf-c6db-4c2b-990b-d41686e122df)
 ![Picture2](https://github.com/muaadh2097/family_therapy_android_studio/assets/125466531/b75feb9d-69de-402a-8d49-0a309d405d26)
 ![Picture3](https://github.com/muaadh2097/family_therapy_android_studio/assets/125466531/4bfd8018-01dd-42d9-a6e2-d3b3e70559df)
